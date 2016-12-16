@@ -9,7 +9,7 @@ A curated list of awesome [Kivy](https://kivy.org/) apps, libraries and articles
 	- [Tutorials](#tutorials)
 	- [User Groups](#usergroups)
 	- [Projects](#projects)
-	- A list of projects running on Kivy
+	 A list of projects running on Kivy
 			-[Open Source](#open_source)
 			-[Open Source](#premium)
 
