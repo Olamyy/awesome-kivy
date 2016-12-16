@@ -9,8 +9,6 @@ A curated list of awesome [Kivy](https://kivy.org/) apps, libraries and articles
 	- [Tutorials](#tutorials)
 	- [User Groups](#usergroups)
 	- [Projects](#projects)
-				- [Backend Development Resources](#backend)
-
 		-[Open Source](#open-source)
 		-[Premium](#premium)
 
