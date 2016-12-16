@@ -4,11 +4,13 @@ A curated list of awesome [Kivy](https://kivy.org/) apps, libraries and articles
 - [Awesome Kivy](#awesome-kivy)
 	- [Official](#official)
 	- [Development Resources](#devResources)
-		- [Backend Development Resources](#backend)]
-		- [UI Development Resources](#frontend)]
+		- [Backend Development Resources](#backend)
+		- [UI Development Resources](#frontend)
 	- [Tutorials](#tutorials)
 	- [User Groups](#usergroups)
 	- [Projects](#projects)
+				- [Backend Development Resources](#backend)
+
 		-[Open Source](#open-source)
 		-[Premium](#premium)
 
