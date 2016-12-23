@@ -29,3 +29,6 @@ website.
 
 
 To contribute to this list, check out [adding resources](CONTRIBUTING.md)
+
+I contributed to the awesome kivy project. Yippeee.
+
